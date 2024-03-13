@@ -1,6 +1,6 @@
 # [Raingrain's Website Icon](https://github.com/raingrain/raingrain-favicon)
 
-> **SVG Code**
+> All images are `16px * 16px` and the **SVG Code** is here:
 
 ```HTML
 <svg
