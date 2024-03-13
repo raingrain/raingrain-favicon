@@ -1,4 +1,4 @@
-# [Favicon](https://github.com/raingrain/favicon)
+# [Raingrain's Favicon](https://github.com/raingrain/raingrain-favicon)
 
 > **SVG Code**
 
